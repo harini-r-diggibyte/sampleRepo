@@ -1,5 +1,6 @@
 print("hungry")
 print("if you are hungry, then have some kachori")
 print("if you are not hungry wait then")
-print("then checking for push works from gitbash")
+print("then checking for push works from gitbashh")
+print("check changes in feature")
 print("thank you")
